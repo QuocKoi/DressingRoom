@@ -1,0 +1,85 @@
+
+/* BEGIN MODEL */
+
+
+.bikinitop {
+  width: 250px;
+  height: 500px;
+  background: url("./../images/allbody/bikini_branew.png");
+  position: absolute;
+  top: 12%;
+  left: 22%;
+  z-index: 1;
+}
+
+.bikinibottom {
+  width: 250px;
+  height: 500px;
+  background: url("./../images/allbody/bikini_pantsnew.png");
+  position: absolute;
+  top: 12%;
+  left: 22%;
+  z-index: 1;
+}
+
+
+.handbags {
+  width: 100%;
+  height: 1000px;
+  position: absolute;
+  bottom: -39%;
+  right: 3%;
+  transform: scale(0.5);
+  z-index: 4;
+}
+
+.necklaces {
+  width: 100%;
+  height: 1000px;
+  position: absolute;
+  bottom: -39%;
+  right: 3%;
+  transform: scale(0.5);
+  z-index: 4;
+}
+
+.hairstyle {
+  width: 1000px;
+  height: 1000px;
+  position: absolute;
+  top: -75%;
+  right: -73%;
+  transform: scale(0.15);
+  z-index: 4;
+}
+
+.shoes {
+  width: 100%;
+  height: 1000px;
+  position: absolute;
+  bottom: -37%;
+  right: 3%;
+  transform: scale(0.5);
+  z-index: 1;
+}
+
+.topclothes{
+  width: 100%;
+height: 100%;
+position: absolute;
+top: -13%;
+right: 3%;
+transform:scale(0.5);
+z-index: 3;
+}
+.botclothes{
+  width: 100%;
+  height:153%;
+  position: absolute;
+  top: -26%;
+  right: 3%;
+  transform:scale(0.5);
+  z-index: 2;
+}
+
+/* END MODEL */
